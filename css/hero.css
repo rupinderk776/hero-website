@@ -32,6 +32,12 @@ header img{
     border: 10px solid rgb(189, 40, 40);
 }
 
+audio{
+	position: fixed;
+	top: 0;
+	max-height: 25px;
+}
+
 main{
     max-width: 900px;
     margin:  auto;
